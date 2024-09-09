@@ -143,8 +143,8 @@ sudo apt install gcc-y
 
 Precisamos instalar uma estensão no VScode para acessar o nosso servidor de forma remota.
 
-!["extensão SSH"](SSh.png)
+!["extensão SSH"](ssh.png)
 
 Configuração do acesso remoto:
 
-!["cofiguração SSH"](SSh1.png)
+!["cofiguração SSH"](ssh1.png)
